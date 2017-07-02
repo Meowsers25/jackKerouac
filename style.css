@@ -1,107 +1,91 @@
 body {
-  font-family: "Monospace";
-  color: white;
-  margin: 0 auto;
-  background-image: radial-gradient( #454545, #888888);
+	font-family: "Monospace";
+	color: white;
+	margin: 0 auto;
+	background-image: radial-gradient( #454545, #888888);
 }
-
 .title {
-  font-family: 'Special Elite', cursive;
-  font-size: 100px;
-  color: red;
-  text-align: center;
+	font-family: 'Special Elite', cursive;
+	font-size: 100px;
+	color: red;
+	text-align: center;
 }
-
 .quote {
-  text-align: center;
-  padding: 40px;
+	text-align: center;
+	padding: 40px;
 }
-
 .p {
-  padding: 40px;
+	padding: 40px;
 }
-
 h4 {
-  font-family: "Gloria Hallelujah";
-  font-size: 20px;
-  margin: 75px;
+	font-family: "Gloria Hallelujah";
+	font-size: 20px;
+	margin: 75px;
 }
-
 #kerouac {
-  display: block;
-  margin: 0 auto;
-  box-shadow: 7px 7px 5px #696969;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 7px 7px 5px #696969;
 }
-
 #second-paragraph {
-  font-family: 'Inconsolota', monospace;
-  color: white;
+	font-family: 'Inconsolota', monospace;
+	color: white;
 }
-
+#books {
+	font-family: 'Inconsolota', monospace;
+	color: white;
+}
 .works {
-  padding: 40px;
+	padding: 40px;
 }
-
 li {
-  font-size: 35px;
+	font-size: 35px;
 }
-
 .anchor {
-  color: yellow;
+	color: yellow;
 }
-
 #bookpic {
-  display: block;
-  margin: 0 auto;
-  box-shadow: 7px 7px 5px #A1A1A1;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 7px 7px 5px #A1A1A1;
 }
-
 .end {
-  padding: 40px;
+	padding: 40px;
 }
-
 .final-link {
-  font-family: 'Inconsolota', monospace;
-  font-size: 50px;
-  margin: 100px;
-  text-align: center;
+	font-family: 'Inconsolota', monospace;
+	font-size: 50px;
+	margin: 100px;
+	text-align: center;
 }
-
 p {
-  font-size: 20px;
-  margin: 55px;
+	font-size: 20px;
+	margin: 55px;
 }
-
 h6 {
-  font-size: 40px;
-  color: yellow;
-  margin: 55px;
+	font-size: 40px;
+	color: yellow;
+	margin: 55px;
 }
-
 h5 {
-  font-size: 40px;
-  margin: 55px;
+	font-size: 40px;
+	margin: 55px;
 }
-
 .center {
-  width: 300px;
-  margin: 0 auto;
-  text-align: left;
+	width: 300px;
+	margin: 0 auto;
+	text-align: left;
 }
-
 .foot {
-  display: block;
-  margin: 0 auto;
-  height: 25px;
-  width: 250px;
+	display: block;
+	margin: 0 auto;
+	height: 25px;
+	width: 250px;
 }
-
 .btn {
-  display: block;
-  margin: 0 auto;
-  
+	display: block;
+	margin: 0 auto;
 }
-
 .email {
-  text-align: center;
+	text-align: center;
 }
